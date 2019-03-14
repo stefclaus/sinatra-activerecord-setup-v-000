@@ -1,4 +1,3 @@
-# A sample Gemfile
 gem 'sinatra'
 gem 'activerecord', '4.2.5'
 gem 'sinatra-activerecord'
